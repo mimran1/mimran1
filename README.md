@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mimran1
-- 👀 I’m interested in Web app development in .Net (particular interest in backend)
+- 👋 Hi, I’m Mohammad
+- 👀 I’m interested in Web app development in .Net
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: imran2408@gmail.com
